@@ -23,7 +23,7 @@ Plug the three gas sensors into the Marvin as shown:
 * MQ5 in the first analog port, signal on pin 5
 * MQ9 in the first analog port, signal on pin 9
 
-
+![Gas House Marvin array](https://github.com/reikoNeko/marvin_gas/blob/master/IMG_20170610_165440.jpg)
 
 # Project Team
 This was produced by Team Ten, "The Gas House Gang" at the Smart City Hackathon sponored by Comcast MachineQ in Philadelphia on June 10, 2017. Members:
