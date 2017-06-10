@@ -20,9 +20,9 @@ int     led_port = 13;
 //*** Set parameters here BEGIN ---->
 // NOTE: Devices joining the network via ABP, what we're doing for the hackathon,
 // only require DevADDR, NWKSKey, and APPSKey. DevEUI will be assigned by Network Server.
-String  set_devaddr = "04001E61"; // Put your 8 hex char here
-String  set_nwkskey = "cbc3cd553639bddb3c2606c322fec320"; // Put your 32 hex char here
-String  set_appskey = "51d3fd7154cb32b97c8f53b3e13afc2b"; // Put your 32 hex char here
+String  set_devaddr = "01010101"; // Put your 8 hex char here
+String  set_nwkskey = "01010101010101010101010101010101"; // Put your 32 hex char here
+String  set_appskey = "01010101010101010101010101010101"; // Put your 32 hex char here
 //*** <---- END Set parameters here
 
 // Some global items
