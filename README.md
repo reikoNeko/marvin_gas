@@ -20,8 +20,8 @@ These sensors could also be placed along pipelines, in apartments and nursing ho
 # Hardware Setup
 Plug the three gas sensors into the Marvin as shown:
 * MQ2 in the first analog port, signal on pin 3
-* MQ5 in the first analog port, signal on pin 5
-* MQ9 in the first analog port, signal on pin 9
+* MQ5 in the second analog port, signal on pin 5
+* MQ9 in the third analog port, signal on pin 0
 
 ![Gas House Marvin array](https://github.com/reikoNeko/marvin_gas/blob/master/IMG_20170610_165440.jpg)
 
