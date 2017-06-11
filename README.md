@@ -27,10 +27,10 @@ Plug the three gas sensors into the Marvin as shown:
 
 # Project Team
 This was produced by Team Ten, "The Gas House Gang" at the Smart City Hackathon sponored by Comcast MachineQ in Philadelphia on June 10, 2017. Members:
-* Kenneth Au
-* Hai Dang
-* Alan Neves
-* Rachel Rawlings
+* Kenneth Au (programming and visualizations)
+* Hai Dang (web interface and visualizations)
+* Alan Neves (presentation and marketing)
+* Rachel Rawlings (architect, arduino programming)
 
 
 # Alpha notes
